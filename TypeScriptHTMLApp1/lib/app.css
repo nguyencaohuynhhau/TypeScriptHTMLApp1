@@ -1,10 +1,90 @@
-﻿body {
-    font-family: 'Segoe UI', sans-serif;
+﻿* {
+    margin: 0;
+    padding: 0;
 }
 
-span {
-    font-style: italic;
+._1spkhac b {
+    font-size: 16px;
+    display: block;
+    padding: 11px 0;
+    font-weight: bold;
+    color: #3e3c3c;
 }
-* {
-    margin:0; padding:0
+
+.dathang {
+    margin-top: 21px;
+    text-transform: uppercase;
+    font-weight: bold;
+    padding: 16px;
+}
+
+.gom {
+    color: gray;
+    font-size: 12px;
+}
+
+.doto {
+    font-size: 27px;
+    color: red;
+}
+
+.phai.float-right {
+    color: black;
+    font-weight: bold;
+    font-size: 15px;
+    text-align: right;
+}
+
+.dongtinhgia {
+    padding: 10px 0 20px 0;
+    border-bottom: 1px solid #b9b8b8;
+    margin-bottom: 17px;
+}
+
+.xoa {
+    font-size: 12px;
+    font-weight: bold;
+    text-transform: uppercase;
+    cursor: pointer;
+}
+
+.capnhat {
+    font-size: 12px;
+    font-weight: bold;
+    text-transform: uppercase;
+    cursor: pointer;
+}
+
+input.soluongsp {
+    width: 121%;
+    padding: 5px 0 0px 5px;
+    line-height: 30px;
+}
+
+.gia1 {
+    font-size: 20px;
+    font-weight: bold;
+    color: #414141;
+}
+
+a.tieude {
+    color: #414141;
+    font-size: 15px;
+    font-weight: bold;
+    padding-bottom: 10px;
+    display: block;
+}
+
+    a.tieude:hover {
+        color: green;
+    }
+
+h3.tdto {
+    padding: 17px 0px;
+}
+
+body {
+    font-family: segoe ui light;
+    font-size: 13px;
+    background: #f7f7f7;
 }
