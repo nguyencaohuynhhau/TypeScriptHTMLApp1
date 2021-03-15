@@ -1,5 +1,5 @@
 ﻿import { SanPham } from "./sanpham";
-class QuanLyhang {
+export class QuanLyhang {
     private hang :  SanPham;
 
     constructor() { }

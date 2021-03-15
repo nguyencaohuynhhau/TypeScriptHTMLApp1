@@ -69,7 +69,7 @@
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
-    <TypeScriptCompile Include="app.ts" />
+    <TypeScriptCompile Include="js\app.ts" />
     <TypeScriptCompile Include="js\quanlyhang.ts" />
     <TypeScriptCompile Include="js\sanphamgiohang.ts" />
     <TypeScriptCompile Include="js\sanpham.ts" />

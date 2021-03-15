@@ -16,4 +16,5 @@ var QuanLyhang = (function () {
     };
     return QuanLyhang;
 }());
+exports.QuanLyhang = QuanLyhang;
 //# sourceMappingURL=quanlyhang.js.map

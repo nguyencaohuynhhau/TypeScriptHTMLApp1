@@ -71,4 +71,4 @@ var SanPham = (function () {
     return SanPham;
 }());
 exports.SanPham = SanPham;
-//# sourceMappingURL=sanpham.js.map
+//# sourceMappingURL=sanPham.js.map
